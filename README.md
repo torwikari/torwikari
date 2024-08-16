@@ -32,11 +32,11 @@ I am an aspiring programmer with a growing passion for blockchain technology. I 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=torwikari&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torwikari&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## ⚡ Fun Fact
