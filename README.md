@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hello, I'm [Torwikari]! 👋
+# Hello, I'm Torwikari! 👋
 
 I am an aspiring programmer with a growing passion for blockchain technology. I am constantly learning and exploring new technologies. My goal is to grow as a developer and contribute to exciting projects that make an impact.
 
