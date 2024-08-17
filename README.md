@@ -20,23 +20,19 @@ I am a self-taught developer with a strong interest in Python, blockchain techno
 ### [Hospitality Management System](https://github.com/torwikari/Hospitality-Management-System)
 A SQL-based database designed to manage the inventory and operations of a hospitality business. This project includes various features like tracking ingredients, suppliers, and sales.
 
-### [Blockchain Basics](https://github.com/torwikari/blockchain-basics)
-An introductory project exploring the basics of blockchain technology, focusing on creating a simple blockchain in Python.
-
 ## 🏆 Achievements
 
 <p align="left">
   <img src="https://img.shields.io/badge/edX-Certificate%20Holder-blue?style=for-the-badge&logo=edx&logoColor=white" alt="edX Certificate Holder" />
-  <img src="https://img.shields.io/badge/Codecademy-Certificate%20Holder-green?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy Certificate Holder" />
 </p>
 
 ## 🛠️ Languages I Use
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ## 🛠️ Applications & Tools I Use
@@ -67,16 +63,13 @@ An introductory project exploring the basics of blockchain technology, focusing 
 Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/torwikari">
+  <a href="https://www.linkedin.com/in/aritaree">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/torwikari">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:torwikari@example.com">
+  <a href="mailto:torwikari@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-## ⚡ Fun Fact
-I'm always up for a challenge!
